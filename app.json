@@ -1,4 +1,6 @@
 {
-  "name": "Assignment",
-  "slug": "Assignment"
+  "expo": {
+    "name": "Assignment",
+    "slug": "Assignment"
+  }
 }
